@@ -1,0 +1,6 @@
+toml
+app = "flujo-minimo"
+
+[mounts]
+  source = "flujo-data"
+  destination = "/data
